@@ -1,4 +1,4 @@
-# How-to-install-Artix-Linux
+# How to install Artix Linux
 
 #### To check your internet type:
 ```
