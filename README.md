@@ -11,7 +11,7 @@ lsblk
 
 ### Preferably erase the partitions you have on:
 ```
-cfdisk /dev/sda
+cfdisk /dev/sda    #save/create/delete partitions
 ```
 
 #### In the label type window, select GPT.
